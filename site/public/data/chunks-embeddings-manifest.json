@@ -1,0 +1,18 @@
+{
+  "version": "789bd2a43540",
+  "createdAt": "2025-12-03T04:47:24.116Z",
+  "model": "Xenova/all-MiniLM-L6-v2",
+  "dimension": 384,
+  "chunkVersion": "ee80fd2f0431",
+  "totalVectors": 386,
+  "parts": [
+    {
+      "file": "data/embeddings-789bd2a43540-part-01.json.gz",
+      "size": 1361100,
+      "uncompressedSize": 3132923,
+      "checksum": "79617c2c47029a82eeab05e828614bc3a49240f8451beb0ddf4838e32e35df3c",
+      "sequence": 1,
+      "vectorCount": 386
+    }
+  ]
+}

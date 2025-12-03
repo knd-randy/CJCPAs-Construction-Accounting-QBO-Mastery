@@ -1,0 +1,285 @@
+{
+  "version": "ee80fd2f0431",
+  "createdAt": "2025-12-03T04:45:09.186Z",
+  "totalDocuments": 53,
+  "totalChunks": 386,
+  "chunkTargetTokens": 1200,
+  "chunkOverlapTokens": 200,
+  "parts": [
+    {
+      "file": "data/chunks-ee80fd2f0431-part-01.json.gz",
+      "size": 587177,
+      "uncompressedSize": 4290199,
+      "checksum": "faf06f8ad6c421da5878c7d630c69c3d212e3651680cf6322dea35f2cffea737",
+      "sequence": 1,
+      "chunkCount": 386
+    }
+  ],
+  "documents": [
+    {
+      "path": "docs/01-introduction.md",
+      "title": "01-introduction",
+      "anchor": "01-introduction"
+    },
+    {
+      "path": "docs/02-getting-started.md",
+      "title": "02-getting-started",
+      "anchor": "02-getting-started"
+    },
+    {
+      "path": "docs/advanced/01-multi-entity-structures.md",
+      "title": "01-multi-entity-structures",
+      "anchor": "01-multi-entity-structures"
+    },
+    {
+      "path": "docs/advanced/02-industry-specific-guides.md",
+      "title": "02-industry-specific-guides",
+      "anchor": "02-industry-specific-guides"
+    },
+    {
+      "path": "docs/advanced/03-aia-forms-companion.md",
+      "title": "03-aia-forms-companion",
+      "anchor": "03-aia-forms-companion"
+    },
+    {
+      "path": "docs/basics/01-connecting-bank-accounts.md",
+      "title": "01-connecting-bank-accounts",
+      "anchor": "01-connecting-bank-accounts"
+    },
+    {
+      "path": "docs/basics/02-connecting-credit-cards.md",
+      "title": "02-connecting-credit-cards",
+      "anchor": "02-connecting-credit-cards"
+    },
+    {
+      "path": "docs/basics/03-recording-transactions.md",
+      "title": "03-recording-transactions",
+      "anchor": "03-recording-transactions"
+    },
+    {
+      "path": "docs/basics/04-vendor-setup-ap.md",
+      "title": "04-vendor-setup-ap",
+      "anchor": "04-vendor-setup-ap"
+    },
+    {
+      "path": "docs/basics/05-invoice-tieout.md",
+      "title": "05-invoice-tieout",
+      "anchor": "05-invoice-tieout"
+    },
+    {
+      "path": "docs/checklists/11-month-end-close.md",
+      "title": "11-month-end-close",
+      "anchor": "11-month-end-close"
+    },
+    {
+      "path": "docs/checklists/12-daily-weekly-checklists.md",
+      "title": "12-daily-weekly-checklists",
+      "anchor": "12-daily-weekly-checklists"
+    },
+    {
+      "path": "docs/checklists/13-year-end-close.md",
+      "title": "13-year-end-close",
+      "anchor": "13-year-end-close"
+    },
+    {
+      "path": "docs/compliance/01-sales-use-tax.md",
+      "title": "01-sales-use-tax",
+      "anchor": "01-sales-use-tax"
+    },
+    {
+      "path": "docs/compliance/02-bonding-requirements.md",
+      "title": "02-bonding-requirements",
+      "anchor": "02-bonding-requirements"
+    },
+    {
+      "path": "docs/compliance/03-audit-preparation.md",
+      "title": "03-audit-preparation",
+      "anchor": "03-audit-preparation"
+    },
+    {
+      "path": "docs/integrations/01-construction-integrations.md",
+      "title": "01-construction-integrations",
+      "anchor": "01-construction-integrations"
+    },
+    {
+      "path": "docs/reference/10-common-mistakes.md",
+      "title": "10-common-mistakes",
+      "anchor": "10-common-mistakes"
+    },
+    {
+      "path": "docs/reference/12-gaap-principles.md",
+      "title": "12-gaap-principles",
+      "anchor": "12-gaap-principles"
+    },
+    {
+      "path": "docs/reference/13-troubleshooting-faq.md",
+      "title": "13-troubleshooting-faq",
+      "anchor": "13-troubleshooting-faq"
+    },
+    {
+      "path": "docs/reporting/01-essential-reports.md",
+      "title": "01-essential-reports",
+      "anchor": "01-essential-reports"
+    },
+    {
+      "path": "docs/resources/01-glossary.md",
+      "title": "01-glossary",
+      "anchor": "01-glossary"
+    },
+    {
+      "path": "docs/resources/02-migration-tips.md",
+      "title": "02-migration-tips",
+      "anchor": "02-migration-tips"
+    },
+    {
+      "path": "docs/security/01-user-roles-permissions.md",
+      "title": "01-user-roles-permissions",
+      "anchor": "01-user-roles-permissions"
+    },
+    {
+      "path": "docs/setup/01-classes-locations-tracking.md",
+      "title": "01-classes-locations-tracking",
+      "anchor": "01-classes-locations-tracking"
+    },
+    {
+      "path": "docs/setup/02-company-settings.md",
+      "title": "02-company-settings",
+      "anchor": "02-company-settings"
+    },
+    {
+      "path": "docs/templates/09-chart-of-accounts.md",
+      "title": "09-chart-of-accounts",
+      "anchor": "09-chart-of-accounts"
+    },
+    {
+      "path": "docs/tutorials/03-job-costing-setup.md",
+      "title": "03-job-costing-setup",
+      "anchor": "03-job-costing-setup"
+    },
+    {
+      "path": "docs/tutorials/04-wip-schedules.md",
+      "title": "04-wip-schedules",
+      "anchor": "04-wip-schedules"
+    },
+    {
+      "path": "docs/tutorials/05-progress-billing.md",
+      "title": "05-progress-billing",
+      "anchor": "05-progress-billing"
+    },
+    {
+      "path": "docs/tutorials/06-retention-tracking.md",
+      "title": "06-retention-tracking",
+      "anchor": "06-retention-tracking"
+    },
+    {
+      "path": "docs/tutorials/07-equipment-allocation.md",
+      "title": "07-equipment-allocation",
+      "anchor": "07-equipment-allocation"
+    },
+    {
+      "path": "docs/tutorials/08-change-orders.md",
+      "title": "08-change-orders",
+      "anchor": "08-change-orders"
+    },
+    {
+      "path": "docs/tutorials/09-contract-types.md",
+      "title": "09-contract-types",
+      "anchor": "09-contract-types"
+    },
+    {
+      "path": "docs/tutorials/10-cash-flow-forecasting.md",
+      "title": "10-cash-flow-forecasting",
+      "anchor": "10-cash-flow-forecasting"
+    },
+    {
+      "path": "docs/tutorials/11-budget-vs-actual.md",
+      "title": "11-budget-vs-actual",
+      "anchor": "11-budget-vs-actual"
+    },
+    {
+      "path": "docs/workflows/01-purchase-orders.md",
+      "title": "01-purchase-orders",
+      "anchor": "01-purchase-orders"
+    },
+    {
+      "path": "docs/workflows/02-subcontractor-1099-lien-waivers.md",
+      "title": "02-subcontractor-1099-lien-waivers",
+      "anchor": "02-subcontractor-1099-lien-waivers"
+    },
+    {
+      "path": "docs/workflows/03-time-tracking-payroll.md",
+      "title": "03-time-tracking-payroll",
+      "anchor": "03-time-tracking-payroll"
+    },
+    {
+      "path": "docs/workflows/04-equipment-capitalization.md",
+      "title": "04-equipment-capitalization",
+      "anchor": "04-equipment-capitalization"
+    },
+    {
+      "path": "docs/workflows/05-prevailing-wage-certified-payroll.md",
+      "title": "05-prevailing-wage-certified-payroll",
+      "anchor": "05-prevailing-wage-certified-payroll"
+    },
+    {
+      "path": "docs/workflows/06-insurance-tracking.md",
+      "title": "06-insurance-tracking",
+      "anchor": "06-insurance-tracking"
+    },
+    {
+      "path": "docs/workflows/07-material-management.md",
+      "title": "07-material-management",
+      "anchor": "07-material-management"
+    },
+    {
+      "path": "docs/workflows/08-electronic-documents.md",
+      "title": "08-electronic-documents",
+      "anchor": "08-electronic-documents"
+    },
+    {
+      "path": "templates/13-week-cash-flow-template.md",
+      "title": "13-week-cash-flow-template",
+      "anchor": "13-week-cash-flow-template"
+    },
+    {
+      "path": "templates/change-order-log-template.md",
+      "title": "change-order-log-template",
+      "anchor": "change-order-log-template"
+    },
+    {
+      "path": "templates/construction-coa-general-contractor.csv",
+      "title": "construction-coa-general-contractor",
+      "anchor": "construction-coa-general-contractor"
+    },
+    {
+      "path": "templates/equipment-rate-calculator-template.md",
+      "title": "equipment-rate-calculator-template",
+      "anchor": "equipment-rate-calculator-template"
+    },
+    {
+      "path": "templates/job-cost-budget-template.md",
+      "title": "job-cost-budget-template",
+      "anchor": "job-cost-budget-template"
+    },
+    {
+      "path": "templates/kpi-dashboard-template.md",
+      "title": "kpi-dashboard-template",
+      "anchor": "kpi-dashboard-template"
+    },
+    {
+      "path": "templates/retention-tracker-template.md",
+      "title": "retention-tracker-template",
+      "anchor": "retention-tracker-template"
+    },
+    {
+      "path": "templates/subcontractor-compliance-tracker.md",
+      "title": "subcontractor-compliance-tracker",
+      "anchor": "subcontractor-compliance-tracker"
+    },
+    {
+      "path": "templates/wip-schedule-template.md",
+      "title": "wip-schedule-template",
+      "anchor": "wip-schedule-template"
+    }
+  ]
+}
