@@ -3,7 +3,7 @@ name: Deploy GitHub Pages
 on:
   push:
     branches:
-      - main
+      - Construction-Accounting-QBO-CoPilot
   workflow_dispatch:
 
 permissions:
