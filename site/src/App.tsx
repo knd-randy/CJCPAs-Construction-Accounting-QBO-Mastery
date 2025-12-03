@@ -136,7 +136,7 @@ function App() {
           </div>
           <a
             className="inline-flex items-center justify-center rounded-full border border-white/20 px-4 py-2 text-sm font-medium text-white transition hover:border-white/60"
-            href="https://github.com/knd-randy/CJCPAs-Construction-Accounting-QBO-Mastery"
+            href="https://github.com/knd-randy/CJCPAs-Construction-Accounting-QBO-Mastery/tree/Construction-Accounting-QBO-CoPilot"
             target="_blank"
             rel="noreferrer"
           >
